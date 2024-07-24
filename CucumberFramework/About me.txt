@@ -1,0 +1,85 @@
+
+CG:
+Its been in CG for 5 + plus years now
+
+
+1st ACcount : ME bank , Memebers Equity - Client for almost 3 years ( 2. 9 years )
+
+2nd ACcount : 
+	a. RBC ( Wealth Management almost 1 year)
+	b. RBC - Retail ( Credit Cards from past 2 years to present now
+	
+Currently I'm working for RBC ( Royal bank of Canada ) -Retail , Credit Cards team comprising of 3 members , leading team as well as individual contributor 
+	
+
+Skills:
+
+Java Selenium - 6+ years where 3 years in Old compay framework developement ..
+
+// Have knowledge on API, work experience in ReadyAPI
+
+
+Now we are having API + Mainframe technology
+
+Team Name: RCPS ( Retail Cards Payment Systems)
+
+About Project:
+We are basically work with CreditCurrently I'm working on Migration project called a Emerald - Credit cards Migration,
+
+
+Interview Questions
+
+About myself, i.e overall exp and Automation experience. - Told 9 + IT and 6.5~7 JAVA Selenium
+
+About framework.
+Told Hybrid framework , and he asked regd TestNG , i told we had worked on Junit ( w.r.t. Accenture and here in CG Cafenext Tool)
+ 
+how to handle dynamic elements in selenium -- Main and Important as like mostly deals with dynamic elements ( sales force )
+
+Difference between List( duplicates allowed ) and Set( No duplicates allowed in set  and used in swtitching the window ( multiple windows )
+
+Difference between findElement and findElements- Told
+DO you face/encountered any exceptions-
+ - ElementNotFound ( When no element/Object not found by the path ) and Stale element exception ?.
+
+How do you capture table data i.e. 2nd row 3 column..and compare if this is correct/ pass?
+Told , we get all the elements and for loops, and asked we need to get the table something.
+
+Difference between xpath and css selectors .Not answered 100% , as i told mostly use xpath , CSS selectors we use less, but need to work on object element find by CSS selectors 
+
+About Jenkins- Consider have 20 Sanity TC's , 10 SMoke scenarios and 80 Regression suite TC's . how we run only 20 sanity Test cases
+Consider if 2 TC's fail we need to fix , how we can mention/pass args  to run only other test cases
+
+
+_________________________
+Hi Preeti ,
+
+Please find attached resume along with below details , let me know if you need any details .
+
+Please fill the below basic details along with resume.
+
+1. First Name: Prasannakumar
+2. Last Name: Chandrashekharmath
+3. Email: prasannakumarpc@outlook.com 
+4. Total years of Exp: 9year 6 months 
+5. Total years of relevant Exp : 4 + years 
+6. Skill: Retail Banking , Credit Cards 
+7. Current Company: Capgemini 
+8. No of Months/Years in current company: 5 years 7 months 
+9. Working Status (Perm/Contract):Permanant 
+10. % Scored in 10'th, 12'th, Graduation and Post Graduation: (Full time only)
+11. Current Location :Bengaluru
+12.Open for relocation: No
+13. Mobile No. & Home Ph No.: +91 88928 58463
+14. Is there a Gap/ gaps of more than 2 years in between Education OR Experience? No
+15. Whether Interviewed by TCS within last 6 months (Yes/No): No
+16. Current CTC: 1133502
+17. Expected CTC: 20 LPA ( Negotiable )
+18. Notice period: 90 days 
+
+Note : I do have Canada VISA now .
+
+Thanks & Regards ,
+Prasanna
+
+
